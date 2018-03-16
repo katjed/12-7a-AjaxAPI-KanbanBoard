@@ -1,8 +1,8 @@
 {
-  "name": "task-11-4",
+  "name": "12-7a-AjaxAPI-KanbanBoard",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "init-project": "npm install && npm-run-all init:*",
     "init:dirs": "mkdirp sass css vendor images js",
