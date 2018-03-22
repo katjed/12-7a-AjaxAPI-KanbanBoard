@@ -11,7 +11,6 @@ var board = {
 };
 
 // Adding events - creating column
-
 $('.create-column').click(function() {
     var columnName = prompt('Enter column name');
 

@@ -1,4 +1,4 @@
-// Class'Column'
+// Class 'Column'
 function Column(id, name) {
     var self = this; 
     this.id = id;
